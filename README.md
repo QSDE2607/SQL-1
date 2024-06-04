@@ -1,5 +1,5 @@
 # SQL-1
-Thiết kế cơ sở dữ liệu báo điện tử
+<h1> Thiết kế cơ sở dữ liệu báo điện tử </h1>
 
 Tên dự án: Thiết kế cơ sở dữ liệu báo điện tử
 
